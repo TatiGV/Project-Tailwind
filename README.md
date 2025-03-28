@@ -28,14 +28,13 @@ Escull un dels següents dissenys de pàgina web per composar-lo fent servir els
 A la teva terminal,
 
 1. Executa `npm install` per instal·lar els paquets (packages).
-2. Executa `npm start` per inicialitzar Tailwind i compilar-ne les classes automàticament.
+2. Executa `npm run tailwind` per inicialitzar Tailwind i compilar-ne les classes automàticament.
 
 **IMPORTANT!** A partir d'aquest moment, la terminal quedarà "bloquejada", degut a que hi ha un programa funcionant. Això vol dir que no podràs utilitzar aquesta finestra de la terminal per a fer, per exemple, `git commit`. Hauràs d'obrir una altra finestra per a fer-ho!
 
 ## Recursos
 
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Tailwind Labs Youtube Channel](https://www.youtube.com/c/TailwindLabs)
 - [Utility-First Fundamentals](https://tailwindcss.com/docs/utility-first)
 
 ## Notes
