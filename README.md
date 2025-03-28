@@ -7,21 +7,23 @@
 
 # Front End - Projecte 1
 
-Escull un dels següents dissenys de pàgina web per composar-lo fent servir els coneixements d'HTML i CSS que hem après en les darreres dues setmanes:
+Escull un dels següents dissenys de pàgina web per composar-lo fent servir els coneixements d'HTML i CSS que hem après en les darreres tres setmanes:
 
 | **Títol**                        | **Enllaç**                                               |
 | -------------------------------- | -------------------------------------------------------- |
-| Furniture Landing Page           | https://www.figma.com/community/file/1061732519182077733 |
-| iBuy - ecommerce website         | https://www.figma.com/community/file/1061279717553788561 |
-| Finance Website Concept          | https://www.figma.com/community/file/1060098483912933594 |
+| Doctor Care                      | https://www.figma.com/community/file/1102912263666619803 |
+| Positivus Landing Page Design    | https://www.figma.com/community/file/1230604708032389430 |
+| Personal Portfolio Website       | https://www.figma.com/community/file/1262992249991763120 |
 | Agency Landing Page              | https://www.figma.com/community/file/1060934768189771297 |
 | Digital Agency Website           | https://www.figma.com/community/file/1058842196634115002 |
 | Product Landing Page             | https://www.figma.com/community/file/1059550415816505412 |
 | Agency Web - Landing page design | https://www.figma.com/community/file/1058767686059595687 |
-| Gaming Platform                  | https://www.figma.com/community/file/1058773912152023976 |
 | Simple Agency Web                | https://www.figma.com/community/file/1058777711359033259 |
-| Creative Freelance Portfolio     | https://www.figma.com/community/file/1055585500471619711 |
+| 2024 Portfolios                  | https://www.figma.com/community/file/1329012896288066125 |
+| Gaming Platform                  | https://www.figma.com/community/file/1058773912152023976 |
 | Travel Website Landing Page      | https://www.figma.com/community/file/993910904620677970  |
+| Creative Freelance Portfolio     | https://www.figma.com/community/file/1055585500471619711 |
+| Furniture Landing Page           | https://www.figma.com/community/file/1061732519182077733 |
 
 ## Configuració
 
