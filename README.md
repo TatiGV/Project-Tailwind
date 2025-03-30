@@ -18,7 +18,7 @@ Escull un dels següents dissenys de pàgina web per composar-lo fent servir els
 | Digital Agency Website           | https://www.figma.com/community/file/1058842196634115002 |
 | Product Landing Page             | https://www.figma.com/community/file/1059550415816505412 |
 | Agency Web - Landing page design | https://www.figma.com/community/file/1058767686059595687 |
-| Simple Agency Web                | https://www.figma.com/community/file/1058777711359033259 |
+| QWERy landing                    | https://www.figma.com/design/G75r4esXzrWtkPq1Yyhjrk      |
 | 2024 Portfolios                  | https://www.figma.com/community/file/1329012896288066125 |
 | Gaming Platform                  | https://www.figma.com/community/file/1058773912152023976 |
 | Travel Website Landing Page      | https://www.figma.com/community/file/993910904620677970  |
