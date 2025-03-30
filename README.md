@@ -13,7 +13,8 @@ Escull un dels següents dissenys de pàgina web per composar-lo fent servir els
 | -------------------------------- | -------------------------------------------------------- |
 | Doctor Care                      | https://www.figma.com/community/file/1102912263666619803 |
 | Positivus Landing Page Design    | https://www.figma.com/community/file/1230604708032389430 |
-| Personal Portfolio Website       | https://www.figma.com/community/file/1262992249991763120 |
+| Personal Portfolio Website 1     | https://www.figma.com/community/file/1262992249991763120 |
+| Personal Portfolio Website 2     | https://www.figma.com/community/file/946944225031473055  |
 | Agency Landing Page              | https://www.figma.com/community/file/1060934768189771297 |
 | Digital Agency Website           | https://www.figma.com/community/file/1058842196634115002 |
 | Product Landing Page             | https://www.figma.com/community/file/1059550415816505412 |
