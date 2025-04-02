@@ -6,11 +6,83 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link href="output.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
   <title>Projecte 1</title>
 </head>
 
-<body>
-  <h1 class="text-xl">Hola mundo</h1>
+<body class="bg-black text-white font-poppins">
+  <!-- header con navbar -->
+  <header class="flex justify-between items-center p-6 bg-black text-white">
+    <div class="text-xl font-bold ml-12">LOGO</div>
+    <nav class="flex mr-14">
+      <ul class="hidden md:flex md:gap-[75px] items-center gap-6">
+        <li><a href="#" class="hover:text-[#FA9021]">Home</a></li>
+        <li class="relative">
+          <a href="#" class="hover:text-[#FA9021]">About us</a>
+          <img src="images/lineaNaranja.png" alt="línea naranja" class="absolute left-0 -ml-5">
+        </li>
+        <li><a href="#" class="hover:text-[#FA9021]">Portfolio</a></li>
+        <li><a href="#" class="hover:text-[#FA9021]">News</a></li>
+        <li><button class="bg-[#FA9021] w-[131px] h-[41px] rounded text-white font-medium cursor-pointer">Contact
+            us</button></li>
+      </ul>
+
+      <!-- hamburguesa -->
+      <div class="block md:hidden">
+        <i class="material-icons">menu</i>
+      </div>
+    </nav>
+  </header>
+  <!-- sección texto e imagen -->
+  <section class="grid grid-cols-1 md:grid-cols-2 items-center gap-6 md:gap-20">
+    <div class="flex justify-center">
+      <div class="max-w-lg">
+        <p class="text-sm mb-12">Home ><span class="text-[#E47500] cursor-pointer"> About us</span></p>
+        <h1 class="text-3xl md:text-4xl font-bold">
+          Lorem Ipsum is simply dummy text of the printing and.
+        </h1>
+        <p class="text-gray-400 mt-6 text-lg">
+          Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum has been the
+          industry/'s
+          standard dummy text ever since the 1500s.
+        </p>
+        <button class="mt-14 bg-[#FA9021] px-6 py-3 rounded-full text-white font-medium cursor-pointer">
+          <!-- Get in touch -> PONER IMAGEN FLECHA -->
+        </button>
+      </div>
+    </div>
+
+    <div class="flex justify-end relative">
+      <img src="images/foto1.png" alt="Cyberpunk City" class="w-[739px] h-[656px]">
+      <img src="images/paginas.png" alt="marcador de paginas"
+        class="flex justify-items-end w-44 h-16 absolute bottom-0 left-0">
+    </div>
+  </section>
+  <!-- seccion why work with us -->
+  <section class="p-20 ml-10">
+    <h2 class="text-2xl font-semibold pl-3 mb-12">Why work with us</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div class="bg-[#1C140F] p-6 rounded-2xl text-center w-[378px] h-[348px]">
+        <button class="bg-[#B000DC] text-white text-xs px-3 py-1 rounded-sm">Lorem Ipsum</button>
+        <h3 class="mt-4 text-xl font-semibold">Lorem Ipsum</h3>
+        <p class="text-white mt-2 text-sm">Lorem ipsum is simply dummy text of the printing and typesetting industry.
+          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+      </div>
+      <div class="bg-[#1C140F] p-6 rounded-2xl text-center w-[378px] h-[348px]">
+        <button class="bg-[#DC4200] text-white text-xs px-3 py-1 rounded-sm">Lorem Ipsum</button>
+        <h3 class="mt-4 text-xl font-semibold">Lorem Ipsum</h3>
+        <p class="text-white mt-2 text-sm">Lorem ipsum is simply dummy text of the printing and typesetting industry.
+          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+      </div>
+      <div class="bg-[#1C140F] p-6 rounded-2xl text-center w-[378px] h-[348px]">
+        <button class="bg-[#00DC8D] text-white text-xs px-3 py-1 rounded-sm">Lorem Ipsum</button>
+        <h3 class="mt-4 text-xl font-semibold">Lorem Ipsum</h3>
+        <p class="text-white mt-2 text-sm">Lorem ipsum is simply dummy text of the printing and typesetting industry.
+          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+      </div>
+    </div>
+  </section>
+
 </body>
 
 </html>
